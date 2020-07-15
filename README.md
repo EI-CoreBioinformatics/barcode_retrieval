@@ -7,6 +7,7 @@ Tools used:
 * bbduk
 * NextFlow
 * R
+* singularity
 
 This pipeline was used for retrieving barcodes from mouse blood cells. Stem cells were barcoded and then implanted into mice with flushed blood cells. Barcodes allowed for analysis of patterns in stem cell specialisation across blood cell types.
 
